@@ -1,0 +1,4 @@
+<map id="TiledArray::remap" name="TiledArray::remap">
+<area shape="rect" id="node1" title="For reusing map without allocating new ranges . . . maybe." alt="" coords="5,13,144,39"/>
+<area shape="rect" id="node2" href="$namespace_tiled_array_1_1detail.html#af183b69afaf157592feb750540f764b6" title="Container data pointer accessor." alt="" coords="192,5,325,47"/>
+</map>

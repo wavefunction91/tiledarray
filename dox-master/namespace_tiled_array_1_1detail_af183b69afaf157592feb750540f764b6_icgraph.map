@@ -1,0 +1,16 @@
+<map id="TiledArray::detail::data" name="TiledArray::detail::data">
+<area shape="rect" id="node1" title="Container data pointer accessor." alt="" coords="743,216,876,257"/>
+<area shape="rect" id="node2" href="$namespace_tiled_array.html#aeefa8ea4cb95ebb8c9d9b3809f12dc4d" title="Copy a block of a btas::Tensor into a TiledArray::Tensor." alt="" coords="241,103,436,144"/>
+<area shape="rect" id="node4" href="$class_tiled_array_1_1_range.html#a8e43ff7ba296a6c6fb589d2af5221b3c" title="Shift the lower and upper bound of this range." alt="" coords="517,5,662,47"/>
+<area shape="rect" id="node6" href="$namespace_tiled_array.html#a55a3b9976b8eacacfa0517e6bdc7c44d" title="collective bitwise&#45;compare&#45;reduce for SparseShape objects" alt="" coords="500,122,679,149"/>
+<area shape="rect" id="node7" href="$namespace_tiled_array.html#a4fc8675b642f53bdab884e5a6c473103" title=" " alt="" coords="484,173,695,199"/>
+<area shape="rect" id="node8" href="$namespace_tiled_array.html#a676ce2ab1b89d4f820aba886f9ce12a7" title=" " alt="" coords="505,223,674,250"/>
+<area shape="rect" id="node10" href="$namespace_tiled_array.html#ae862097c5ca7e7a8affa6275af008f63" title="Copy a block of a btas::Tensor into a TiledArray::Tensor." alt="" coords="265,267,413,308"/>
+<area shape="rect" id="node12" href="$namespace_tiled_array.html#a2b1fa4c93060bc503429e3527f2993ad" title="TiledRange permutation operator." alt="" coords="510,325,669,351"/>
+<area shape="rect" id="node13" href="$class_tiled_array_1_1_d_i_i_s.html#a2d6a73c95db1be7695858a254fa6acb1" title=" " alt="" coords="490,375,689,402"/>
+<area shape="rect" id="node14" href="$namespace_tiled_array.html#ab560176d25f863ef051a3294f4d643b7" title="For reusing map without allocating new ranges . . . maybe." alt="" coords="520,426,659,453"/>
+<area shape="rect" id="node3" href="$namespace_tiled_array_1_1detail.html#a8aab6018796760c407b5cc53295568ed" title=" " alt="" coords="5,95,193,151"/>
+<area shape="rect" id="node5" href="$class_tiled_array_1_1_range.html#af3d2ada3894c8cd4661734a8d3e6b6be" title="Shift the lower and upper bound of this range." alt="" coords="266,5,411,47"/>
+<area shape="rect" id="node9" href="$class_tiled_array_1_1_tensor.html#a6a29fd6c76715a7deae52420d9695344" title="Contract this tensor with other." alt="" coords="251,201,426,243"/>
+<area shape="rect" id="node11" href="$namespace_tiled_array_1_1detail.html#aae305e910ce674d71f550e104c354cb5" title="Task function for assigning a tensor to an Eigen submatrix." alt="" coords="24,259,175,315"/>
+</map>

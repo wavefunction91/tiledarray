@@ -1,0 +1,7 @@
+<map id="TiledArray::Range::inplace_shift" name="TiledArray::Range::inplace_shift">
+<area shape="rect" id="node1" title="Shift the lower and upper bound of this range." alt="" coords="5,71,151,112"/>
+<area shape="rect" id="node2" href="$namespace_tiled_array_1_1detail.html#af183b69afaf157592feb750540f764b6" title="Container data pointer accessor." alt="" coords="205,5,338,47"/>
+<area shape="rect" id="node3" href="$namespace_tiled_array_1_1detail.html#a5d281f943194c67e7b0a491f03d49e02" title="Array size accessor." alt="" coords="205,71,338,112"/>
+<area shape="rect" id="node4" href="$class_tiled_array_1_1_range.html#aa7e02abf182f849d3f95842ca3574161" title="Range stride accessor." alt="" coords="199,136,344,177"/>
+<area shape="rect" id="node5" href="$class_tiled_array_1_1_range.html#a72b4e14fa4aeb70240cd6617ef7fcdb3" title="Range stride data accessor." alt="" coords="392,136,537,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TiledArray::operator*" name="TiledArray::operator*">
+<area shape="rect" id="node1" title="permute a std::vector&lt;T&gt;" alt="" coords="5,35,164,61"/>
+<area shape="rect" id="node2" href="$class_tiled_array_1_1_permutation.html#adcbda98293f80a06b9fe773ac9d33c7e" title="Domain size accessor." alt="" coords="212,5,421,32"/>
+<area shape="rect" id="node3" href="$namespace_tiled_array_1_1detail.html#a9ecba5efe7b319458a9f16df0563472b" title="Create a permuted copy of an array." alt="" coords="250,57,383,98"/>
+<area shape="rect" id="node4" href="$namespace_tiled_array_1_1detail.html#a5d281f943194c67e7b0a491f03d49e02" title="Array size accessor." alt="" coords="469,57,603,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TiledArray::detail::fuse_dimensions" name="TiledArray::detail::fuse_dimensions">
+<area shape="rect" id="node1" title="Compute the fused dimensions for permutation." alt="" coords="5,27,145,69"/>
+<area shape="rect" id="node2" href="$class_tiled_array_1_1_permutation.html#adcbda98293f80a06b9fe773ac9d33c7e" title="Domain size accessor." alt="" coords="193,5,403,32"/>
+<area shape="rect" id="node3" href="$namespace_tiled_array_1_1detail.html#a5d281f943194c67e7b0a491f03d49e02" title="Array size accessor." alt="" coords="231,57,365,98"/>
+</map>
